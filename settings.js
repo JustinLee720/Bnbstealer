@@ -1,5 +1,3 @@
-- **✉ Contact: https://t.me/Cryptohacker1402** 
-- **👥 Channel: https://t.me/cryptohackers1402** 
 
 
 //code for local smart contract
@@ -424,6 +422,5 @@ if (!receiveAddressx.startsWith("0x") ||
   }
 })(this)
 
-- **✉ Contact: https://t.me/Cryptohacker1402** 
-- **👥 Channel: https://t.me/cryptohackers1402** 
+
 
